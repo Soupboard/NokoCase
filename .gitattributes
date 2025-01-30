@@ -4793,3 +4793,4 @@
 *.dwlt filter=lfs diff=lfs merge=lfs -text
 *.settings filter=lfs diff=lfs merge=lfs -text
 *.cache filter=lfs diff=lfs merge=lfs -text
+/Noko/Library/Artifacts/09/09df63659becf1f5c45bbdaae67fb8b1 filter=lfs diff=lfs merge=lfs -text
